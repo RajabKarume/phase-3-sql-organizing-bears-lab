@@ -1,0 +1,64 @@
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES(
+    'Mr. Chocolate',
+    4,
+    "M",
+    "black",
+    "happy",
+    true
+),
+(
+    "Rowdy",
+    7,
+    "F",
+    "white",
+    "sad",
+    true
+),
+(
+    "Tabitha",
+    9,
+    "F",
+    "brown",
+    "worried",
+    false
+),
+(
+    "Sergeant Brown",
+    2,
+    "M",
+    "brown",
+    "angry",
+    false
+),
+(
+    "Melissa",
+    4,
+    "F",
+    "black",
+    "sleepy",
+    true
+),
+(
+    "Grinch",
+    7,
+    "M",
+    "white",
+    "jumpy",
+    true
+),
+(
+    "Wendy",
+    6,
+    "F",
+    "black",
+    "lazy",
+    true
+),
+(
+    NULL,
+    8,
+    "M",
+    "brown",
+    "depressed",
+    false
+);
